@@ -122,7 +122,7 @@ int main()
         }
     }
 
-    cout << "\n=== Final Results ===\n";
+    cout << "\nFinal Results!\n";
     cout << "Total Cycles: " << cycle - 1 << "\n"; 
     cout << "Tasks Completed: " << all_tasks.size() << "\n";
     cout << "Scheduler: Round Robin (quantum = 3)\n";
